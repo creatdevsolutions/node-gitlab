@@ -1,6 +1,6 @@
 {
   "name": "@creatdevsolutions/node-gitlab",
-  "version": "4.3.0",
+  "version": "4.4.0",
   "description": "Full NodeJS implementation of the GitLab API. Supports Promises, Async/Await.",
   "main": "dist/es5/index.js",
   "modules": "dist/latest/index.js",
