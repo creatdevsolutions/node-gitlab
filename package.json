@@ -1,5 +1,5 @@
 {
-  "name": "gitlab",
+  "name": "@cs/node-gitlab",
   "version": "4.2.1",
   "description": "Full NodeJS implementation of the GitLab API. Supports Promises, Async/Await.",
   "main": "dist/es5/index.js",
